@@ -28,6 +28,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+ analytics:
+  		provider: "google-universal"
+  	google:
+ 	tracking_id: "UA-135623755-1"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
